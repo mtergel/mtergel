@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @mtergel
-- 👀 I’m interested in fullstack development
-- 🌱 I’m currently learning Flutter, AWS
+- 🌱 I’m currently learning Flutter
 - 💞️ I’m looking to collaborate on React Projects
 - 📫 How to reach me: tergelm@gmail.com
 - 🌕 Check out my portfolio: https://portfolio-three-orpin.vercel.app/
